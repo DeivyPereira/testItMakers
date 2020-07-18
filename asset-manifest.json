@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/testItMakers/static/css/main.5f361e03.chunk.css",
+    "main.js": "/testItMakers/static/js/main.f8fd7007.chunk.js",
+    "main.js.map": "/testItMakers/static/js/main.f8fd7007.chunk.js.map",
+    "runtime-main.js": "/testItMakers/static/js/runtime-main.77f00fb1.js",
+    "runtime-main.js.map": "/testItMakers/static/js/runtime-main.77f00fb1.js.map",
+    "static/js/2.19a72569.chunk.js": "/testItMakers/static/js/2.19a72569.chunk.js",
+    "static/js/2.19a72569.chunk.js.map": "/testItMakers/static/js/2.19a72569.chunk.js.map",
+    "index.html": "/testItMakers/index.html",
+    "precache-manifest.18516387667a681159202a808221ca32.js": "/testItMakers/precache-manifest.18516387667a681159202a808221ca32.js",
+    "service-worker.js": "/testItMakers/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/testItMakers/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.19a72569.chunk.js.LICENSE.txt": "/testItMakers/static/js/2.19a72569.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.77f00fb1.js",
+    "static/js/2.19a72569.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.f8fd7007.chunk.js"
+  ]
+}
